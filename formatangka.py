@@ -1,4 +1,4 @@
-print("========Soal Algoritma 2========")
+print("========Soal Algoritma 3========")
 
 bil = int(raw_input("Input Bilangan  : "))
 pangkat = len(str(bil))-1
